@@ -29,7 +29,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prakash-218&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-218&theme=dracula&hide_border=false&border_radius=5&fire=FF6E96&currStreakLabel=79DAFA" height="220" alt="streak graph"  />
 </div>
 
 ###
