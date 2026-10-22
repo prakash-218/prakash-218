@@ -1,106 +1,48 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prakash!;" />
-</div>
+# Hi, I'm Prakash 👋
 
-###
+**Distributed Systems Engineer** · M.S. CS @ Northeastern · previously **Amazon** and **DevRev**
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prakash-218.prakash-218&left_color=teal&right_color=blue" alt="visitor badge"/>
-</div>
+I build systems that stay predictable under load: high-throughput ingestion pipelines, multi-tenant monitoring, and the infrastructure that tells you when either one is lying to you.
 
-###
+📫 Open to new-grad backend / infrastructure roles (2027)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-US-blue?style=for-the-badge" alt="Location Badge"/>
-  <img src="https://img.shields.io/badge/Languages-English-blue?style=for-the-badge" alt="Language Badge"/>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=white)](https://prakash-kumar-ramesh.netlify.app/)
+[![Résumé](https://img.shields.io/badge/Résumé-111111?style=for-the-badge&logo=readthedocs&logoColor=white)](https://prakash-kumar-ramesh.netlify.app/pdf/Prakash%20Kumar%20Ramesh%20Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-prakash-kumar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.prakash.218+github@gmail.com)
 
-###
+## ⚡ Highlights
 
-<br clear="both">
+- Scaled a metrics ingestion pipeline (Go, gRPC, Kafka, DuckDB) from **100K to 2M+ events/min per tenant** at DevRev
+- Built multi-tenant API availability monitoring that let customers catch **~60% of incidents before users noticed**
+- Load-tested **1,500+ RPC endpoints at 1M+ simulated users** with a Go / gRPC / K6 framework
+- **TCS CodeVita 2022:** global rank 93 of 130,000+ (top 0.07%) · **DevRev hackathons:** 1st place ×3
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash-218&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-218&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="150" alt="languages graph"  />
-</div>
+## 🔨 Featured work
 
-###
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Porter**](https://github.com/prakash-218/porter) | Layer 4 TCP load balancer: goroutine per connection, round robin and least connections, active health checks with dynamic backend removal | Go · TCP · Prometheus |
+| [**DocuMint**](https://github.com/prakash-218/DocuMint) | Multi-tenant invoice platform with RBAC, tenant data isolation, a dynamic template engine and JWT auth | Flask · MySQL · Docker |
 
-<br clear="both">
+## 🌍 Open source
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-218&theme=dracula&hide_border=false" height="220" alt="streak graph"  />
-</div>
+- **apache/fory**: Bazel caching for CI ([#2888](https://github.com/apache/fory/pull/2888), [#2893](https://github.com/apache/fory/pull/2893))
+- **external-secrets**: return the right error from `ValidateStore` ([#5019](https://github.com/external-secrets/external-secrets/pull/5019))
+- **prometheus-operator**: PR template improvements ([#7694](https://github.com/prometheus-operator/prometheus-operator/pull/7694))
 
-###
+## 🛠️ Toolkit
 
-<br clear="both">
+[![Toolkit](https://skillicons.dev/icons?i=go,python,ts,kafka,kubernetes,docker,redis,mongodb,postgres,prometheus,grafana,terraform,aws,githubactions&perline=14)](https://skillicons.dev)
 
-## 🛠️ Skills
+Also: gRPC · DuckDB · ArgoCD · Ansible · K6
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash-218&theme=dracula&hide_border=false&area=true" alt="contribution graph" />
-</div>
-
-###
-
-## 🔗 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/r-prakash-kumar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="mailto:work.prakash.218+github@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://github.com/prakash-218" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
-  </a>
-</div>
-
-###
-
-## 🐍 Snake Eating My Contributions
+## 🐍 Contributions
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakash-218/prakash-218/main/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakash-218/prakash-218/main/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prakash-218/prakash-218/main/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution grid eaten by a snake" src="https://raw.githubusercontent.com/prakash-218/prakash-218/main/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-###
